@@ -140,7 +140,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for details.
 
 ## 👤 Author
 
-**Your Name**
+**Abduvahhonov Javohir**
 [GitHub](https://github.com/javohir-io) 
 
 Built as a full-stack portfolio project — Flutter frontend, Node/Express backend, PostgreSQL database, and an admin panel, all designed and wired together end to end.
