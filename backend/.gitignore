@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables (contains real secrets — never commit this)
+.env
+
+# User-uploaded content (resumes, profile photos, job images).
+# The server recreates this folder automatically on startup.
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
