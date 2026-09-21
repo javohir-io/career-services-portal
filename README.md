@@ -21,7 +21,7 @@ A full-stack internship & career services platform: a Flutter mobile/web app for
 
 ## 📱 Overview
 
-Career Services Portal is a self-contained MVP that models a real university career-services product: students register, browse internships from companies like Rockstar Games, Sony PlayStation, and Ubisoft, save the ones they're interested in, submit a resume, and book an interview slot — all backed by a real database and a real REST API, not mock data.
+Career Services Portal is a self-contained MVP that models a real university career-services product: students register, browse internships from different companies, save the ones they're interested in, submit a resume, and book an interview slot — all backed by a real database and a real REST API, not mock data.
 
 Built end-to-end — client, server, database schema, and an internal admin tool — as a full-stack learning project.
 
