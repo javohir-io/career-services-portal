@@ -136,7 +136,6 @@ flutter run -d chrome
 
 Deliberately left for a future pass — an honest list, not a todo I'm hiding:
 
-- [ ] Deploy a live demo (currently local-only by design)
 - [ ] Replace the admin panel's shared-secret key with real admin accounts + sessions
 - [ ] Email notifications when an application is submitted
 - [ ] Automated tests (unit + widget + API)
